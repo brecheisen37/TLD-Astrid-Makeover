@@ -11,7 +11,8 @@ How to install:
 https://github.com/HerpDerpinstine/MelonLoader/
 This creates a new folder named "Mods" in your TLD folder.
 
-2. Extract everything from the ZIP file to your new TLD\Mods folder (overwrite old files)
+2. Extract everything from the ZIP file to your new TLD\Mods folder (overwrite old files) 
+(both the dll file and the AstridMakeover folder need to be unzipped and placed in the mods folder)
 
 3. In addition you need to install:
 - ModSettings
