@@ -1,3 +1,5 @@
+![](https://github.com/brecheisen37/TLD-Astrid-Makeover/blob/main/image.png)
+
 # TLD-Astrid-Makeover
 
 The Long Dark - Astrid Makeover - v1.0.0 by  Primadonna
